@@ -1,1 +1,1 @@
-# lab-html-css-js
+# JavaScript Interview Prep
